@@ -30,13 +30,14 @@ The rest of my cryptographic identities are as follows:
   * 3E65 947B F6EB 62A9 E707 4BCA C469 22E0 68A6 AA0A
 
 * XMPP (pc):
-  * fowlslegs AT jabber DOT calyxinstitute DOT org (pc)
-  = 5a84c05c5c328aa9efda8ed88785a83be5d2b690
+  * fowlslegs AT jabber DOT calyxinstitute DOT org
+  * 5a84c05c5c328aa9efda8ed88785a83be5d2b690
 
 * XMPP (mobile):
   * fowlslegs-mobile AT jabber DOT calyxinstitute DOT org
   * 4d75bf66 e8a1dff7 2da288f9 91eb1e83 7918290d (OTR)
   * 07cc50ae 72a1ec2c e9322005 44910c31 3e7fbd21 da30d5a4 975a54fa 3715be65
+    (OMEMO)
 
 * Signal:
   * Ask for number
