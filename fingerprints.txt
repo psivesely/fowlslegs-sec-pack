@@ -19,8 +19,11 @@ You can verify my full PGP public key fingerprint on the follow sites:
 * http://freepress3xxs3hk.onion/about/staff/noah-vesely
 * https://freedom.press/about/staff/noah-vesely
 * This one.
-* https://quitter.no/fowlslegs
-* https://twitter.com/fowlslegs
+
+And in the near future you'll be able to download my key and verify my
+fingerprint on my personal site as well:
+
+* https://fowlsle.gs
 
 The rest of my cryptographic identities are as follows:
 
@@ -29,7 +32,7 @@ The rest of my cryptographic identities are as follows:
   * fowlslegs AT riseup DOT net (personal)
   * 3E65 947B F6EB 62A9 E707 4BCA C469 22E0 68A6 AA0A
 
-* XMPP (pc):
+* XMPP (desktop):
   * fowlslegs AT jabber DOT calyxinstitute DOT org
   * 5a84c05c5c328aa9efda8ed88785a83be5d2b690
 
@@ -41,7 +44,7 @@ The rest of my cryptographic identities are as follows:
 
 * Signal:
   * Ask for number
-  * 05 8c f3 42 87 82 a3 8e 48 c5 a3 25 e3 5f 6f b3 4d 3b 0f 8e da 5b dd 53 3c 0c 80 ca 39 6e f5 2a 44
+  * 05 88 44 71 c9 dc d5 9b 51 b1 6d 9c f9 16 94 32 04 bc ff e4 bc 8b 0c a1 12 7b 1b 49 17 6d 06 e6 3d
 
 Proof of Freshness
 ~~~~~~~~~~~~~~~~~~
