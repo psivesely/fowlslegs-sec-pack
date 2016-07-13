@@ -50,8 +50,7 @@ The rest of my cryptographic identities are as follows:
 $ date -R -u
 Wed, 13 Jul 2016 19:24:57 +0000
 
-$ rsstail -1 -n5 -u
-https://www.spiegel.de/international/index.rss
+$ rsstail -1 -n5 -u https://www.spiegel.de/international/index.rss
 Title: Trouble in Paradise: Tourism in the Age of Terrorism
 Title: Russian Foreign Policy: 'We Are Smarter, Stronger and More Determined'
 Title: Eastern Flank Security: The Siren Song of NATO's Hawks
