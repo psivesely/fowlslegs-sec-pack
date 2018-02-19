@@ -1,3 +1,7 @@
+:construction: WARNING: This file is currently not up-to-date and you should not
+trust any keys listed below. This situation should be rectified shortly.
+:construction:
+
 # Statements
 
 This list of fingerprints has been signed with a detached signature (also in
